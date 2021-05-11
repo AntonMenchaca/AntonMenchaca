@@ -24,9 +24,8 @@
 <pre>
 <img src="https://img.shields.io/badge/Tools-Docker-yellow" alt="docker badge"/>   <img src="https://img.shields.io/badge/Tools-AmazonAWSEC2-blue" alt="Amazon badge"/> 
 
-<img src="https://img.shields.io/badge/Tools-Loader.io-blue" alt="loader badge"/>   <img src="https://img.shields.io/badge/Tools-mocha-green" alt="mocha badge"/> <img src="https://img.shields.io/badge/Tools-chai-green" alt="chai badge"/>   <img src="https://img.shields.io/badge/Tools-jest-green" alt="jest badge"/>   <img src="https://img.shields.io/badge/Tools-jest-green" alt="enzyme badge"/> 
+<img src="https://img.shields.io/badge/Tools-Loader.io-blue" alt="loader badge"/>   <img src="https://img.shields.io/badge/Tools-mocha-green" alt="mocha badge"/>   <img src="https://img.shields.io/badge/Tools-chai-green" alt="chai badge"/>   <img src="https://img.shields.io/badge/Tools-jest-green" alt="jest badge"/>   <img src="https://img.shields.io/badge/Tools-enzyme-green" alt="enzyme badge"/> 
 </pre>
-
 
 ---
 
