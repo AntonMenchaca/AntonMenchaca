@@ -1,10 +1,17 @@
+
+
 ##  🙋🏽‍♂️👋 Welcome!
 ---
+
 <img src="https://miro.medium.com/max/4800/0*Kuiu4i4jaeVCSei0" alt="An image of NYC skyscrapers"/>
 
 #### 👨🏽‍💻  My name is Anton. I'm a NYC based Software Engineer passionate about front end development.
 #### 🌆  I’m currently working on a React project using Redux and Typescript.
 #### 💬  Feel free to look at some of the projects I worked on or contact me if you wanna chat.
+<pre>                         <a href="https://www.linkedin.com/in/anton-menchaca/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+ /></a>     <a href="mailto:menchacanton@gmail.com" style="margin: 20px;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a></pre>
+
+
 ---
 ## ⚙️ **Technologies and Tools**
 
